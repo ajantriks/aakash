@@ -19,6 +19,13 @@ h1 {
   color: #666;
 }
 
+a,
+a:hover,
+a:active,
+a:focus {
+  color: #428BCA;
+}
+
 /* Materials */
 
 .materials {
